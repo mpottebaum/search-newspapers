@@ -4,7 +4,7 @@ Description
 
 [Full Demo](https://www.youtube.com/watch?v=SFXISEKAEYI)
 
-![Search Newspapers demo](https://gifs.com/gif/search-newspapers-demo-WLy7JW)
+![Search Newspapers demo](https://j.gifs.com/WLy7JW.gif)
 
 Tech Specs
 
