@@ -1,0 +1,6 @@
+[submodule "SearchNewspapers"]
+	path = SearchNewspapers
+	url = https://github.com/mpottebaum/SearchNewspapers
+[submodule "search-newspapers-api"]
+	path = search-newspapers-api
+	url = https://github.com/mpottebaum/search-newspapers-api
