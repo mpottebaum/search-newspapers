@@ -1,12 +1,10 @@
 # Search Newspapers
 
-Description
+Search Newspapers allows iOS users to search Chronicling America's API of historic newspapers and save their favorite pages.
 
 [Full Demo](https://www.youtube.com/watch?v=SFXISEKAEYI)
 
 ![Search Newspapers demo](https://j.gifs.com/WLy7JW.gif)
-
-Tech Specs
 
 ## Installing Search Newspapers
 
