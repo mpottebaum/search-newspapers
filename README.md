@@ -1,10 +1,14 @@
 # Search Newspapers
 
-Search Newspapers allows iOS users to search Chronicling America's API of historic newspapers and save their favorite pages.
+Search Newspapers allows iOS users to search [Chronicling America's API](https://chroniclingamerica.loc.gov/about/api/) of historic newspapers and save their favorite pages.
 
 [Full Demo](https://www.youtube.com/watch?v=SFXISEKAEYI)
 
 ![Search Newspapers demo](https://j.gifs.com/WLy7JW.gif)
+
+I built this app using React Native with Redux and Redux Thunk to manage state. I styled the components using only custom style. I tested the components with unit and snapshot tests using Jest with React Renderer and Redux Mock Store.
+
+I built my own API using Rails to allow users to save interesting newspaper pages they find. I then utilized AsyncStorage in React Native to store user info client-side and allow user login to be persisted between sessions.
 
 ## Installing Search Newspapers
 
